@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018069966477",
+    "project_id": "sougna-61fc0",
+    "storage_bucket": "sougna-61fc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018069966477:android:a712f306893e3768daccc4",
+        "android_client_info": {
+          "package_name": "com.example.sougna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1wYWd4YXMsy1x4sE_Nw0Nto2y_YfjBS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
